@@ -1,0 +1,19 @@
+[web]
+172.31.47.66   web_root=/var/www/www1
+
+
+
+[dev]
+172.31.43.151   web_root=/var/www/www2
+
+
+
+
+
+
+
+
+
+
+
+
